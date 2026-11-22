@@ -14,7 +14,6 @@ name:      Slok Tulsyan
 role:      Full-Stack Web Developer
 location:  Durg, Chhattisgarh, India
 focus:     MERN · Next.js · FastAPI
-learning:  TODO  # ✏️ edit me
 open_to:   collaborations · hackathons · side projects
 contact:   sloktulsyan@gmail.com
 ```
