@@ -1,138 +1,61 @@
-<h1 align="center">Hi there, I'm Slok Tulsyan 👋</h1>
+<img src="./assets/hero.svg" alt="Slok Tulsyan, Full-Stack Web Developer" width="100%" />
 
 <p align="center">
-  <a href="https://github.com/Slok9931">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+%F0%9F%93%9A;Let's+build+something+cool!" alt="Typing SVG" />
-  </a>
+  <a href="https://www.linkedin.com/in/slok-tulsyan-003786293/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=3fb950"/></a>
+  <a href="mailto:sloktulsyan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=3fb950"/></a>
+  <a href="https://stackoverflow.com/users/30654459"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-161b22?style=flat-square&logo=stackoverflow&logoColor=3fb950"/></a>
+  <a href="https://instagram.com/tulsyanslok"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=3fb950"/></a>
 </p>
+
+<img src="./assets/section-about.svg" alt="cd ~/about" width="100%" />
+
+```yaml
+name:      Slok Tulsyan
+role:      Full-Stack Web Developer
+location:  Durg, Chhattisgarh, India
+focus:     MERN · Next.js · FastAPI
+learning:  TODO  # ✏️ edit me
+open_to:   collaborations · hackathons · side projects
+contact:   sloktulsyan@gmail.com
+```
+
+<img src="./assets/section-stack.svg" alt="cd ~/stack" width="100%" />
+
+<img src="./assets/stack.svg" alt="Tech stack" width="100%" />
+
+<img src="./assets/section-stats.svg" alt="cd ~/stats" width="100%" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Slok9931&label=Profile+views&color=00bcd4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Slok9931?style=for-the-badge&logo=github&color=181717" alt="Followers" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I build full-stack web apps, mostly with the **MERN stack**, **Next.js** and **FastAPI**
-- 🌱 Currently learning: *(add what you're exploring, e.g. system design, Docker, cloud)*
-- 🤝 Open to collaborating on: *(open source, hackathons, startups)*
-- 💬 Ask me about: React, Node.js, MongoDB, TypeScript
-- 📍 Based in Durg, Chhattisgarh, India
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/slok-tulsyan-003786293/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sloktulsyan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/30654459"><img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://instagram.com/tulsyanslok"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-**Languages**
-<p>
-  <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img title="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img title="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img title="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-**Frontend**
-<p>
-  <img title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img title="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
-  <img title="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-**Backend & Databases**
-<p>
-  <img title="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img title="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img title="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img title="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img title="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img title="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-**Tools & Deployment**
-<p>
-  <img title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img title="Shell" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img title="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img title="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img title="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img title="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img title="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img title="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
-
-**Design & Productivity**
-<p>
-  <img title="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img title="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img title="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img title="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats" />
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most used languages" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per language" />
-  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive time" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time of day" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Slok9931&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Slok9931&background=0d1117&border=30363d&ring=3fb950&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
 </p>
 
----
-
-### 🐍 Contribution Snake
+<img src="./assets/section-activity.svg" alt="cd ~/activity" width="100%" />
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Slok9931/Slok9931/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Slok9931/Slok9931/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Slok9931/Slok9931/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/Slok9931/Slok9931/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
----
+<img src="./assets/section-projects.svg" alt="cd ~/projects" width="100%" />
 
-### 📌 Featured Projects
-
-<!-- Replace these with your own, or use pinned repos on your profile -->
+<!-- ✏️ Replace these rows with your real projects -->
 | Project | Description | Stack |
-| --- | --- | --- |
-| [Project One](https://github.com/Slok9931) | One-line description of what it does | React, Node.js, MongoDB |
-| [Project Two](https://github.com/Slok9931) | One-line description of what it does | Next.js, FastAPI |
+| :--- | :--- | :--- |
+| [project-one](https://github.com/Slok9931) | One line about what it does | React · Node.js · MongoDB |
+| [project-two](https://github.com/Slok9931) | One line about what it does | Next.js · FastAPI |
+| [project-three](https://github.com/Slok9931) | One line about what it does | Svelte · Firebase |
 
----
+<br/>
 
-### 🪄 Fun Fact
-
-> I can design an app, code the backend, style the frontend, and pitch the startup – all before lunch 🍱😄
-
-<p align="center"><sub>⚡ Stats are auto-updated daily by GitHub Actions</sub></p>
+<img src="./assets/footer.svg" alt="git commit -m Let's build something cool" width="100%" />
