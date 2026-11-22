@@ -46,15 +46,4 @@ contact:   sloktulsyan@gmail.com
   </picture>
 </p>
 
-<img src="./assets/section-projects.svg" alt="cd ~/projects" width="100%" />
-
-<!-- ✏️ Replace these rows with your real projects -->
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [project-one](https://github.com/Slok9931) | One line about what it does | React · Node.js · MongoDB |
-| [project-two](https://github.com/Slok9931) | One line about what it does | Next.js · FastAPI |
-| [project-three](https://github.com/Slok9931) | One line about what it does | Svelte · Firebase |
-
-<br/>
-
 <img src="./assets/footer.svg" alt="git commit -m Let's build something cool" width="100%" />
